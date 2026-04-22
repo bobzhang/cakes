@@ -1,0 +1,45 @@
+[submodule "crescent"]
+	path = crescent
+	url = https://github.com/bobzhang/crescent.git
+[submodule "hol"]
+	path = hol
+	url = https://github.com/bobzhang/hol.git
+[submodule "ini-parser"]
+	path = ini-parser
+	url = https://github.com/bobzhang/ini-parser.git
+[submodule "mermaid"]
+	path = mermaid
+	url = https://github.com/bobzhang/mermaid.git
+[submodule "moonbit-visitors"]
+	path = moonbit-visitors
+	url = https://github.com/bobzhang/moonbit-visitors.git
+[submodule "games"]
+	path = games
+	url = https://github.com/bobzhang/games.git
+[submodule "moonbit-scheme"]
+	path = moonbit-scheme
+	url = https://github.com/bobzhang/moonbit-scheme.git
+[submodule "moonbit-sexp"]
+	path = moonbit-sexp
+	url = https://github.com/bobzhang/moonbit-sexp.git
+[submodule "lexer"]
+	path = lexer
+	url = https://github.com/bobzhang/lexer.git
+[submodule "holm"]
+	path = holm
+	url = https://github.com/bobzhang/holm.git
+[submodule "flags_feature_test"]
+	path = flags_feature_test
+	url = https://github.com/bobzhang/flags_feature_test.git
+[submodule "toml_parser"]
+	path = toml_parser
+	url = https://github.com/bobzhang/toml_parser.git
+[submodule "zip.mbt"]
+	path = zip.mbt
+	url = https://github.com/bobzhang/zip.mbt.git
+[submodule "async_http_examples"]
+	path = async_http_examples
+	url = https://github.com/bobzhang/async_http_examples.git
+[submodule "yaml"]
+	path = yaml
+	url = https://github.com/bobzhang/yaml.git

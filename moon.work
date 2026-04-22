@@ -1,0 +1,17 @@
+members = [
+  "./async_http_examples",
+  "./crescent",
+  "./flags_feature_test",
+  "./games",
+  "./hol",
+  "./holm",
+  "./ini-parser",
+  "./lexer",
+  "./mermaid",
+  "./moonbit-scheme/ocamlscheme",
+  "./moonbit-sexp",
+  "./moonbit-visitors",
+  "./toml_parser",
+  "./yaml",
+  "./zip.mbt",
+]
